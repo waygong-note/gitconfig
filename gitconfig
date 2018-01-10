@@ -1,0 +1,7 @@
+[alias]
+	br = branch
+	ci = commit
+	co = checkout
+	l = log --oneline --graph
+	ls = log --graph --pretty=format:\"%h <%an> %ar %s\"
+	st = status
